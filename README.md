@@ -1,1 +1,1 @@
-# PyQyt-PGP-Password-Manager
+# PyQt5-PGP-Password-Manager
